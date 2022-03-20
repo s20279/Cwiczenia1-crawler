@@ -1,0 +1,16 @@
+C:\Users\Administrator\projekty\Cwiczenia1-crawler\Crawler\bin\Debug\net5.0\Crawler.exe
+C:\Users\Administrator\projekty\Cwiczenia1-crawler\Crawler\bin\Debug\net5.0\Crawler.deps.json
+C:\Users\Administrator\projekty\Cwiczenia1-crawler\Crawler\bin\Debug\net5.0\Crawler.runtimeconfig.json
+C:\Users\Administrator\projekty\Cwiczenia1-crawler\Crawler\bin\Debug\net5.0\Crawler.runtimeconfig.dev.json
+C:\Users\Administrator\projekty\Cwiczenia1-crawler\Crawler\bin\Debug\net5.0\Crawler.dll
+C:\Users\Administrator\projekty\Cwiczenia1-crawler\Crawler\bin\Debug\net5.0\ref\Crawler.dll
+C:\Users\Administrator\projekty\Cwiczenia1-crawler\Crawler\bin\Debug\net5.0\Crawler.pdb
+C:\Users\Administrator\projekty\Cwiczenia1-crawler\Crawler\obj\Debug\net5.0\Crawler.csproj.AssemblyReference.cache
+C:\Users\Administrator\projekty\Cwiczenia1-crawler\Crawler\obj\Debug\net5.0\Crawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\projekty\Cwiczenia1-crawler\Crawler\obj\Debug\net5.0\Crawler.AssemblyInfoInputs.cache
+C:\Users\Administrator\projekty\Cwiczenia1-crawler\Crawler\obj\Debug\net5.0\Crawler.AssemblyInfo.cs
+C:\Users\Administrator\projekty\Cwiczenia1-crawler\Crawler\obj\Debug\net5.0\Crawler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\projekty\Cwiczenia1-crawler\Crawler\obj\Debug\net5.0\Crawler.dll
+C:\Users\Administrator\projekty\Cwiczenia1-crawler\Crawler\obj\Debug\net5.0\ref\Crawler.dll
+C:\Users\Administrator\projekty\Cwiczenia1-crawler\Crawler\obj\Debug\net5.0\Crawler.pdb
+C:\Users\Administrator\projekty\Cwiczenia1-crawler\Crawler\obj\Debug\net5.0\Crawler.genruntimeconfig.cache
